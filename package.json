@@ -1,0 +1,9 @@
+{
+  "name": "LeetCode",
+  "version": "1.0.0",
+  "description": "LeetCode Exercise with JavaScript",
+  "main": "src/index.js",
+  "repository": "git@github.com:RyHao/LeetCode.git",
+  "author": "RyHao <kinghao914@gmail.com>",
+  "license": "MIT"
+}
